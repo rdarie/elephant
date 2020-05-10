@@ -82,3 +82,4 @@ Thumbs.db
 ignored/
 
 .ipynb_checkpoints/
+.vscode/ftp-sync.json
