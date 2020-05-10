@@ -7,3 +7,4 @@ pandas==0.24.2
 numpy==1.17.2
 quantities==0.12.3
 tqdm==4.36.1
+neo==0.8.0.dev1
